@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "test_community.Windows": {
+      "commandName": "MsixPackage"
+    }
+  }
+}
